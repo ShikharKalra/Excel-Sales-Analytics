@@ -30,9 +30,9 @@
 
 - **P&L by By Months & Quarters** To get a month-by-month and quarterly snapshot of profitability, so company can make timely adjustments and improve financial planning.https://github.com/ShikharKalra/Excel-Sales-Analytics/blob/main/P%26L%20by%20Month%20and%20Quarters.pdf
  
-**P&L by Countries** To understand how each country contributes to your profits and losses, so Company can make better business decisions globally.https://github.com/ShikharKalra/Excel-Sales-Analytics/blob/main/P%26l%20by%20Countries.pdf
+- **P&L by Countries** To understand how each country contributes to your profits and losses, so Company can make better business decisions globally.https://github.com/ShikharKalra/Excel-Sales-Analytics/blob/main/P%26l%20by%20Countries.pdf
 
-**Sub-Zone GPM% By Quarters** To track which regions are driving your gross profit margins and make strategic adjustments for better results.https://github.com/ShikharKalra/Excel-Sales-Analytics/blob/main/Sub-Zone%20GPM%25%20by%20Quarters.pdf
+- **Sub-Zone GPM% By Quarters** To track which regions are driving your gross profit margins and make strategic adjustments for better results.https://github.com/ShikharKalra/Excel-Sales-Analytics/blob/main/Sub-Zone%20GPM%25%20by%20Quarters.pdf
 
 - **Importance of analyzing Finance data:** To make informed decisions that improve financial health and drive success, & for budgeting and forecasting.
 
